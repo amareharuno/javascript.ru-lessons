@@ -1,0 +1,7 @@
+{
+  "name": "javascript.ru-lessons",
+  "version": "0.0.1",
+  "dependencies": {
+    "mime": "latest"
+  }
+}
